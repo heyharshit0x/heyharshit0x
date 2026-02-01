@@ -83,10 +83,10 @@ I'm a **Digital Craftsman** based in **India** 🇮🇳. My passion lies in buil
 
 <br />
 
-<!-- Snake Animation -->
+<!-- Snake Animation
 <div align="center">
   <img src="https://raw.githubusercontent.com/heyharshit0x/heyharshit0x/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 <!-- Contribution Graph -->
 <div align="center">
