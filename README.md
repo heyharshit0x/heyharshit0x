@@ -36,11 +36,19 @@
 <br />
 
 <!-- Streak Stats -->
-<!--
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=heyharshit0x&theme=radical&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=heyharshit0x&theme=radical&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Streak Stats" />
 </div>
--->
+
+<br />
+
+<!-- WidgetBox -->
+<div align="center">
+  <a href="https://github.com/heyharshit0x">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=heyharshit0x&data=followers,repositories,stars,commits&theme=radical" alt="GitHub WidgetBox" />
+  </a>
+</div>
+
 
 <br />
 
@@ -109,6 +117,14 @@ I'm a **Digital Craftsman** based in **India** 🇮🇳. My passion lies in buil
 <div align="center">
 
 <h3>🤝 Let's Connect</h3>
+
+<!-- Discord Status (Lanyard API) -->
+<a href="https://discord.com/users/399231443945127937">
+  <img src="https://lanyard.cnrad.dev/api/399231443945127937?theme=dark&bg=0D1117&animated=true&hide_discrim=true&borderRadius=15px&idleMessage=Building%20Digital%20Masterpieces..." alt="Discord Presence" />
+</a>
+
+<br />
+<br />
 
 <p align="center">
   <a href="https://x.com/harshit0x_" target="_blank">
