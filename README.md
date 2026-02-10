@@ -133,7 +133,7 @@ I'm a **Digital Craftsman** based in **India** 🇮🇳. My passion lies in buil
   <a href="https://www.instagram.com/harshit.stack/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1f2937" alt="Instagram" />
   </a>
-  <a href="https://discord.com/users/399231443945127937" target="_blank">
+  <a href="https://discord.com/users/769969301569798145" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1f2937" alt="Discord" />
   </a>
   <a href="https://www.reddit.com/user/harshit0x/" target="_blank">
